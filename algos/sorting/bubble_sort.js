@@ -129,3 +129,5 @@ const optimizedBubbleSort = (arr) => {
 
   return arr;
 };
+
+/* Read more at: https://www.programiz.com/dsa/bubble-sort */
