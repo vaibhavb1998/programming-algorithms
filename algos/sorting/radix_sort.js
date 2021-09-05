@@ -107,4 +107,4 @@ const radixSort = (arr) => {
   return arr
 };
 
-/* Read more at: https://www.programiz.com/dsa/counting-sort */
+/* Read more at: https://www.programiz.com/dsa/radix-sort */
