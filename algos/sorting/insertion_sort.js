@@ -35,7 +35,7 @@ Algorithm
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
 =========================
-Selection Sort Complexity
+Insertion Sort Complexity
 =========================
 
 ||============================================||
@@ -56,7 +56,7 @@ Selection Sort Complexity
 
 /* 
 =============================
-Selection Sort Implementation 
+Insertion Sort Implementation 
 =============================
 */
 
